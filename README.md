@@ -132,9 +132,9 @@ I'm Jason and I'm self-taugh developer who loves coding and bring solutions usin
 
 You can reach me at email jeissonolartehernandez@gmail.com or follow me on social media
 
-[<img src="./socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow  Jason Olarte on LinkedIn"/>](https://www.linkedin.com/in/jeisson-olarte/)
+[<img src="./socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow  Jason Olarte on LinkedIn"/>](https://www.linkedin.com/in/jeisson-olarte/)
 [<img src="./socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow  Jason Olarte on Twitter"/>](https://twitter.com/jasonDev15)
-[<img src="./socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow  Jason Olarte on Instagram"/>](https://instagram.com/jasonohdz)
+[<img src="./socials/instagram.svg " height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow  Jason Olarte on Instagram"/>](https://instagram.com/jasonohdz)
 
 ## - ⚡ Fun fact: ...
 
