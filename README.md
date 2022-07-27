@@ -107,6 +107,17 @@ I'm Jason and I'm self-taugh developer who loves coding and bring solutions usin
    </td>
     <td>Demo API that query external API drink searching cocktails and save (localstorage) temporary the recipes.</td>
   </tr>
+  <tr>
+  <td><a href="https://driking-api-search.netlify.app/">CRM Clients - Demo</a></td>
+   <td>
+    <ul>
+      <li>Vite (React)</li>
+      <li>json-server</li>
+      <li>Tailwindcss</li>
+    </ul>
+   </td>
+    <td>Demo CRM manager of clients able to perform CRUD operations over clients with json-server</td>
+  </tr>
   </tbody>
 
 </table>
