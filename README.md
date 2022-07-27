@@ -108,7 +108,7 @@ I'm Jason and I'm self-taugh developer who loves coding and bring solutions usin
     <td>Demo API that query external API drink searching cocktails and save (localstorage) temporary the recipes.</td>
   </tr>
   <tr>
-  <td><a href="https://driking-api-search.netlify.app/">CRM Clients - Demo</a></td>
+  <td><a href="https://crm-clients-demo.netlify.app/">CRM Clients - Demo</a></td>
    <td>
     <ul>
       <li>Vite (React)</li>
